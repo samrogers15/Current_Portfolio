@@ -12,15 +12,16 @@
 This portfolio displays current information about me including recent projects I've worked on and an updated biography.
 
 ## Screenshots
-![Random Password Generator](./Assets/images/random-password-generator-screenshot.png)
+![Current Portfolio](./Assets/images/random-password-generator-screenshot.png)
 
 ## Technologies
 * HTML
 * CSS
 * Javascript
+* JQuery
 
 ## Live link
-https://samrogers15.github.io/random-password-generator/
+https://samrogers15.github.io/Current_Portfolio/
 
 ## Contact
 Created by Sam Rogers (https://www.linkedin.com/in/samuelerogers/) - feel free to contact me.
