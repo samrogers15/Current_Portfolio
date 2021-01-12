@@ -5,14 +5,24 @@
 
 /* This style code makes the container float left and gives it padding on the page */
 .container {
-    float: left;
+    justify-items: center;
     padding-top: 10px;
     padding-bottom: 20px;
 }
 
+#intro {
+    padding-bottom: 20px;
+}
+
+/* This style code sets the style of the biography information */
+#biography {
+    font-size: 20px;
+    text-align: justify;
+}
+
 /* This style code sets the style of the card element */
 .card {
-    width: 75%;
+    width: 100%;
     background-color: rgb(241, 241, 241);
 }
 
@@ -25,7 +35,7 @@
 /* This style code makes it so the image on the About Me page floats left and allows the text to wrap around it. */
 .row2 img {
     float: left;
-    width: 100%;
+    width: 60%;
     height: auto;
     padding-right: 20px;
     padding-bottom: 15px;
