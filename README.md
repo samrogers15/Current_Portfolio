@@ -12,7 +12,7 @@
 This portfolio displays current information about me including recent projects I've worked on and an updated biography.
 
 ## Screenshots
-![Current Portfolio](./Assets/images/random-password-generator-screenshot.png)
+![Current Portfolio](.assets/images/current-portfolio-screenshot.png)
 
 ## Technologies
 * HTML
@@ -21,7 +21,7 @@ This portfolio displays current information about me including recent projects I
 * JQuery
 
 ## Live link
-https://samrogers15.github.io/Current_Portfolio/
+https://samrogers15.github.io/Current_Portfolio/index.html
 
 ## Contact
 Created by Sam Rogers (https://www.linkedin.com/in/samuelerogers/) - feel free to contact me.
