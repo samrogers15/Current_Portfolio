@@ -12,7 +12,7 @@
 This portfolio displays current information about me including recent projects I've worked on and an updated biography.
 
 ## Screenshots
-![Current Portfolio](.assets/images/current-portfolio-screenshot.png)
+![Current Portfolio](./assets/images/current-portfolio-screenshot.png)
 
 ## Technologies
 * HTML
