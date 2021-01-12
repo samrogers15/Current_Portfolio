@@ -1,0 +1,5 @@
+$('#intro').text('Sam Rogers Portfolio');
+
+var bio = $('<p>').text('Hello! My name is Sam Rogers and I am an entry-level, full stack developer currently taking classes to learn programming languages and discover which language speaks to me the most. I was born in New Jersey and received my B.A. in Economcs at The George Washington University in Washington, D.C. After graduating from college, I moved to New York City and spent eight years living in various neighborhoods of Manhattan, mostly in the East Village. In 2017, I moved to Portland, OR in order to change my lifestyle and gain easier access to the thing that I love the most - playing outside! Whether it be hiking, camping, skiing, rock-climbing, mountaineering, or swimming...you name it, I like to do it! Professionally, I\'ve spent the past 12 years working at various advertising agencies with a concentration in media, marketing, and communications. If you get a chance, check out my');
+
+$('#biography').append(bio);
