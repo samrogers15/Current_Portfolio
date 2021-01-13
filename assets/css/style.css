@@ -43,9 +43,7 @@
 }
 
 /* This style code sets the style for the images in the portfolio html page. */
-.row2portfolio img,
-.row3portfolio img,
-.row4portfolio img {
+.row2portfolio img {
     width: 100%;
     height: auto;
     padding-bottom: 15px;
